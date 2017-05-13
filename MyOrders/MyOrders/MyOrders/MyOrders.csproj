@@ -39,6 +39,7 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\InstanceLocator.cs" />
+    <Compile Include="Models\asfasf1.cs" />
     <Compile Include="Models\essaata.cs" />
     <Compile Include="Models\est.cs" />
     <Compile Include="Models\Order.cs" />
